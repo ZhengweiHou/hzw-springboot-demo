@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.houzw.demo</groupId>
 	<artifactId>hzw-springboot-demo</artifactId>
-	<version>${rversion}</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>hzw-springboot-demo</name>
@@ -26,7 +26,7 @@
 	</properties>
 
 	<modules>
-		<module>app</module>
+		<module>demo-app</module>
 		<module>demo-plugin</module>
 	</modules>
 
